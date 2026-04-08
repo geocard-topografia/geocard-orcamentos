@@ -372,3 +372,4 @@ function Linha({ titulo, valor, darkMode }: { titulo: string; valor: string; dar
   );
 }
 
+
